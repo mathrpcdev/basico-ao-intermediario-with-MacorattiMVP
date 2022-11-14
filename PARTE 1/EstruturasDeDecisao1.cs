@@ -1,4 +1,9 @@
-﻿bool valor = true;
+/*
+É necessário lembrar que no exercício não foi utilizado o mecanismo String template, ou seja, usar Cifrão seguida de Aspas duplas para conseguir
+interpolar strings de modo a conseguir inserir uma variável qualquer dentro de {chaves}. Macoratti utiliza a forma antiga.
+*/
+
+bool valor = true;
 
 if (valor == true)
 {
